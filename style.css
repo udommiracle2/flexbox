@@ -19,7 +19,7 @@ body {
 }
 
 .item {
-    flex: 1;
+    flex: 1 ;
    height: 100px;
    background: #254de4;
    color: #fff;
