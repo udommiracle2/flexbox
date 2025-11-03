@@ -12,8 +12,10 @@ body {
     height: 400px;
     display: flex;
     background-color: #f4f4f4;
-    justify-content: space-between;
-    align-items: center;
+    /* Always is on the main axis */
+    /* justify-content: end; */
+    /* Always on the cross axis */
+    /* align-items: start; */
 }
 
 .item {
